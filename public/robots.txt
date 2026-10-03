@@ -1,2 +1,5 @@
 User-agent: *
 Disallow:
+
+Flag: PJBL{Aku_Si4p_CaR1_UMKM!}
+Semangat ya untuk persiapan PJBL,aku tahu kamu hebat
